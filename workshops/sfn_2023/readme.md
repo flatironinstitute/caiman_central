@@ -1,2 +1,4 @@
 # SFN Satellite workshop 2023
-This is the page where we will store code for the SFN Satellite workshop. 
+Code for the 2023 Satellite workshop at SFN.
+
+Please let me know if you need code uploaded here, or make a PR.
