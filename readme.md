@@ -4,7 +4,7 @@ A central hub for news about the [Caiman software package](https://github.com/fl
 ## Quarterly community meetings
 Online meeting where for developers can get feedback from users, and for uers to learn about the latest updates and where Caiman is headed.
 
-Next up: February 15 2024 (details coming)    
+Next up: February 22 2024 at 2pm (details coming)    
 
 2023 meetings were held in April, August, and November. 
 
