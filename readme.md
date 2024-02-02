@@ -2,7 +2,7 @@
 A central hub for news about the [Caiman software package](https://github.com/flatironinstitute/CaImAn) for calcium imaging analysis. It will include information about workshops, community meetings, and any other caiman news.
 
 ## Quarterly community meetings
-Online meeting where for developers can get feedback from users, and for uers to learn about the latest updates and where Caiman is headed.
+Online meeting where for developers can get feedback from users, and users can learn about the latest updates for Caiman.
 
 Next up: February 22 2024 at 2pm (details coming)    
 
