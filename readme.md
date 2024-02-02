@@ -1,7 +1,7 @@
 # CaImAn Central
 A central hub for news about the [Caiman software package](https://github.com/flatironinstitute/CaImAn) for calcium imaging analysis. It will include information about workshops, community meetings, and any other caiman news.
 
-## Release notes
+## Release note notes
 Not every release is notable, but we'll note some of the more signifiant bits here. 
 - Release 1.10.0 (February 2023): major update to the anchor notebooks (cnmf and cnmfe). [Feedback welcome](https://github.com/flatironinstitute/CaImAn/discussions/1260)!
 
