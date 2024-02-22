@@ -8,8 +8,7 @@ Not every release is notable, but we'll note some of the more signifiant bits he
 ## Community meetings
 Online meeting where developers and users meet. Devs get feedback from users, and users can learn about the latest updates for Caiman.
 
-Next up: February 22 2024 at 2pm (details coming)    
-
+2024: February 22
 2023 meetings were held in April, August, and November. 
 
 ## Workshops
@@ -18,4 +17,4 @@ Next up: February 22 2024 at 2pm (details coming)
 - [June 2022 Flatiron Workshop](https://indico.flatironinstitute.org/event/2800/overview)
 
 ---  
-Caiman Central was born October 29, 2023. Last updated January 29, 2024.
+Caiman Central was born October 29, 2023. Last updated February 22, 2024.
