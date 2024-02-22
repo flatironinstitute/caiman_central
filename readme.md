@@ -1,4 +1,5 @@
 # CaImAn Central
+<img src="Caiman_logo_2.png" alt="Caiman logo" style="float: right;width:300px;">
 A central hub for news about the [Caiman software package](https://github.com/flatironinstitute/CaImAn) for calcium imaging analysis. It will include information about workshops, community meetings, and any other caiman news.
 
 ## Release note notes
